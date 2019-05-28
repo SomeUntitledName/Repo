@@ -1,0 +1,26 @@
+Package: com.Translucent.cylinder
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: YourName <Brodypinto23@gmail.com>
+Filename: /cylinder_1.0.6.deb
+Size: 255488
+MD5sum: 1C0EEBE91F6E03FAEA96218DADF8F4CC
+SHA1: 8EE421D677DF4EBF70B1F39F58E3FF9D3B831E1A
+SHA256: 4294D05662D81B24BAE3625C4962EC6CFD85678F4066C4B580B151B555C8615F
+Section: Tweaks
+Description: Compatible with iOS 4, 5, 6, 7, 8, 9 and 10
+Compatible with CarPlay
+
+Sexy homescreen icon animations
+
+Currently there are 45 icon effects.
+
+If you take combinations into account, then there are 35,184,372,088,832 effects.
+
+If, for some reason, these 35,184,372,088,832 animations do not satisfy your needs, then you can code your own animations using Lua! Effect scripts are stored in /Library/Cylinder.
+
+You can also make script requests on reddit.com/r/cylinder if you don't know how to computer. People also sometimes post cool combinations there too.
+
+Configure options from Settings.
+Author: Reed Weichler (rweichler+cydia@gmail.com)
+Name: Cylinder
